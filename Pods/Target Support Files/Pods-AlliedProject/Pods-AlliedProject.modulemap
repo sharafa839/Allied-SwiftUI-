@@ -1,0 +1,6 @@
+framework module Pods_AlliedProject {
+  umbrella header "Pods-AlliedProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
